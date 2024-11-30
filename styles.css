@@ -136,7 +136,7 @@ a {
   font-size: 12px;
 }
 
-/* Dark mode */
+/* Dark mode
 @media (prefers-color-scheme: dark) {
   body {
     background-color: #0d1117;
@@ -176,3 +176,5 @@ a {
     color: #8b949e;
   }
 }
+
+ */
